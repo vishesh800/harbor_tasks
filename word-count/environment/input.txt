@@ -1,0 +1,2 @@
+Harbor tasks are simple and powerful.
+This task counts the total number of words.
